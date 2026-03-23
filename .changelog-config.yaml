@@ -1,0 +1,8 @@
+repos:
+  - name: learning-experiment
+    github: 3v3rything15fine/learning-experiment
+  - name: this15fine.dev
+    github: 3v3rything15fine/this15fine.dev
+filters:
+  skip_prefixes: ["chore:", "Merge"]
+  max_entries_per_day: 10
